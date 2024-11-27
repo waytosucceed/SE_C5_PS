@@ -1,0 +1,277 @@
+{
+  "heading": "Soving Series",
+  "topics": [
+    {
+      "heading": "Soving Series",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Find the missing term in the series:<br> 3, 8, 13, ? , 23.",
+          "options": [
+            { "text": "15" },
+            { "text": "16" },
+            { "text": "17" },
+            { "text": "18" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 2,
+          "question": "Find the wrong term in the following series:<br> -200, -182, -164, -148, -128",
+          "options": [
+            { "text": "-182" },
+            { "text": "-164" },
+            { "text": "-148" },
+            { "text": "-128" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "Find the missing term in the series:<br> 52, 39, 26, ?, 0.",
+          "options": [
+            { "text": "12" },
+            { "text": "13" },
+            { "text": "10" },
+            { "text": "9" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 4,
+          "question": "Complete the following series by adding the last term:<br> 18, 13, 8, 3, -2, __.",
+          "options": [
+            { "text": "-5" },
+            { "text": "-6" },
+            { "text": "-7" },
+            { "text": "-8" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 5,
+          "question": "What is the next number in this series:<br> 7, 9, 12, 16, 21 …?",
+          "options": [
+            { "text": "27" },
+            { "text": "29" },
+            { "text": "30" },
+            { "text": "31" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 6,
+          "question": "Incorrect term in the following series is ___ ?<br> Series is : -10, -13, -15, -16, -17.",
+          "options": [
+            { "text": "-13" },
+            { "text": "-15" },
+            { "text": "-16" },
+            { "text": "-17" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 7,
+          "question": "Complete the following Series by adding the last term:<br> 1, 4, 10, 22, __.",
+          "options": [
+            { "text": "36" },
+            { "text": "42" },
+            { "text": "46" },
+            { "text": "52" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 8,
+          "question": "Point out the incorrect term in the following series. <br>Series : 13, 19, 28, 48, 88",
+          "options": [
+            { "text": "19" },
+            { "text": "28" },
+            { "text": "48" },
+            { "text": "88" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 9,
+          "question": "Find the missing term in the series:<br> -5, -20 , -100 , ? , -4200.",
+          "options": [
+            { "text": "-360" },
+            { "text": "-450" },
+            { "text": "-600" },
+            { "text": "-640" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "What is the wrong term in the series:<br> -1, -2, -7, -24, -120 ?",
+          "options": [
+            { "text": "-2" },
+            { "text": "-7" },
+            { "text": "-24" },
+            { "text": "-120" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 11,
+          "question": "Find the missing term in the series:<br> 9, ? , 21 , 32 , 45.",
+          "options": [
+            { "text": "11" },
+            { "text": "13" },
+            { "text": "14" },
+            { "text": "17" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "Find the wrong term in the series :<br> -7, 6, 23, 43, 65.",
+          "options": [
+            { "text": "6" },
+            { "text": "23" },
+            { "text": "43" },
+            { "text": "65" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "Find the missing term in the series:<br> -5, 4 , 20 , ? , 81.",
+          "options": [
+            { "text": "45" },
+            { "text": "54" },
+            { "text": "61" },
+            { "text": "63" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "Complete the following series:<br> -2, 34, 83, 147, __.",
+          "options": [
+            { "text": "200" },
+            { "text": "221" },
+            { "text": "226" },
+            { "text": "228" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 15,
+          "question": "Find the value of A in the given series:<br> 1, A, 190, 406, 749.",
+          "options": [
+            { "text": "A = 9" },
+            { "text": "A = 36" },
+            { "text": "A = 49" },
+            { "text": "A = 65" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 16,
+          "question": "Which term is incorrect in the given series:<br> Series : 11, 19, 49, 110. 235.",
+          "options": [
+            { "text": "19" },
+            { "text": "49" },
+            { "text": "110" },
+            { "text": "235" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "Complete the following series:<br> 3, 3, 14, 5, 21, 7, 28, 9, 35, 11, __.",
+          "options": [
+            { "text": "13" },
+            { "text": "17" },
+            { "text": "39" },
+            { "text": "42" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 18,
+          "question": "Find the incorrect term from the series:<br><img width='70%' src='./assests/images/question/5.jpg'>",
+          "options": [
+            { "text": "12" },
+            { "text": "13" },
+            { "text": "8" },
+            { "text": "11" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 19,
+          "question": "Which term is incorrect in the given series: <br>Series : 7, 11, 13, 18, 19",
+          "options": [
+            { "text": "11" },
+            { "text": "13" },
+            { "text": "18" },
+            { "text": "19" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 20,
+          "question": "Find the last term in the following series: <br>29, 31, 37, 41, 43, __.",
+          "options": [
+            { "text": "45" },
+            { "text": "47" },
+            { "text": "51" },
+            { "text": "53" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 21,
+          "question": "Find the missing number from the series: <br>18, 29, __, 57, 74.",
+          "options": [
+            { "text": "36" },
+            { "text": "39" },
+            { "text": "42" },
+            { "text": "47" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 22,
+          "question": "Which term is incorrect in the given series: <br>12, 19, 28, 40, 52.",
+          "options": [
+            { "text": "12" },
+            { "text": "19" },
+            { "text": "28" },
+            { "text": "40" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 23,
+          "question": "Find the last term in the following series: <br>-3, 4, 23, 60, ___",
+          "options": [
+            { "text": "72" },
+            { "text": "77" },
+            { "text": "120" },
+            { "text": "121" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 24,
+          "question": "Find the missing number from the series: <br>35, 72, __, 224, 331",
+          "options": [
+            { "text": "133" },
+            { "text": "113" },
+            { "text": "103" },
+            { "text": "101" }
+          ],
+          "answer": 0
+        }
+      ]
+      
+      
+    
+    }
+  ]
+}
